@@ -1,0 +1,13 @@
+{
+  "name": "fira-sans-medium",
+  "repo": "typefaces/fira-sans-medium",
+  "description": "The Fira Sans Medium typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "fonts/fira-sans-medium.eot",
+    "fonts/fira-sans-medium.ttf",
+    "fonts/fira-sans-medium.woff"
+  ]
+}
